@@ -5,7 +5,7 @@
 3. Chemical Engineering
 4. Oil Industry
 
-- 🌱 I’m currently learning Web development and Data Analysis
+- 🌱 I learnt Data Science and Data Analysis
   
 - 💞️ I’m looking to collaborate on
 - Data Science & Analytics Projects:
